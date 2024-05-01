@@ -1,0 +1,31 @@
+body
+{
+    background-color: 003b79;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 14pt;
+}
+
+.inhalt
+{
+    width: 80%;
+    margin: auto;
+    border: 4px solid gray;
+    background-color: ffffff;
+    box-shadow: 10px 10px black;
+}
+
+.kopfzeile
+{
+    vertical-align: top;
+    display: inline-block;
+    height: 128px;
+    background-color: e2001a;
+    color: ffffff;
+    width: 100%;
+}
+
+.kopfzeile h1
+{
+    font-size: 36pt;
+    vertical-align: top;
+}
